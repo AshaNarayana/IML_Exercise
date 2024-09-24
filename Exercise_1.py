@@ -105,7 +105,7 @@ np_tableshort = np_table[:, 1:3]
 print(f'np_tableshort: {np_tableshort}')
 # end of the  numpy code
 
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 #
 #
 # x = np.linspace(0, 3, 1000)
